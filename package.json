@@ -1,8 +1,8 @@
 {
   "name": "grapes-project",
   "version": "1.0.0",
-  "author": "Ethyca <https://ethyca.com>",
-  "license": "UNLICENSED",
+  "author": "Denny S. Temple <dev@dentemple.com>",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "webpack",

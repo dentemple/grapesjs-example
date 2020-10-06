@@ -1,1 +1,12 @@
-{}
+{
+  "editor.formatOnSave": true,
+  "prettier.arrowParens": "avoid",
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": false,
+  "prettier.printWidth": 110,
+  "prettier.quoteProps": "as-needed",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none"
+}
